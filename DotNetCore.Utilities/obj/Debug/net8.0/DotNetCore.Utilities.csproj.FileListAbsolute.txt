@@ -1,0 +1,12 @@
+C:\CS PERSONAL\DotNetCore\DotNet_N-Tier_Architecture\DotNetCore.Utilities\bin\Debug\net8.0\DotNetCore.Utilities.deps.json
+C:\CS PERSONAL\DotNetCore\DotNet_N-Tier_Architecture\DotNetCore.Utilities\bin\Debug\net8.0\DotNetCore.Utilities.dll
+C:\CS PERSONAL\DotNetCore\DotNet_N-Tier_Architecture\DotNetCore.Utilities\bin\Debug\net8.0\DotNetCore.Utilities.pdb
+C:\CS PERSONAL\DotNetCore\DotNet_N-Tier_Architecture\DotNetCore.Utilities\obj\Debug\net8.0\DotNetCore.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS PERSONAL\DotNetCore\DotNet_N-Tier_Architecture\DotNetCore.Utilities\obj\Debug\net8.0\DotNetCore.Utilities.AssemblyInfoInputs.cache
+C:\CS PERSONAL\DotNetCore\DotNet_N-Tier_Architecture\DotNetCore.Utilities\obj\Debug\net8.0\DotNetCore.Utilities.AssemblyInfo.cs
+C:\CS PERSONAL\DotNetCore\DotNet_N-Tier_Architecture\DotNetCore.Utilities\obj\Debug\net8.0\DotNetCore.Utilities.csproj.CoreCompileInputs.cache
+C:\CS PERSONAL\DotNetCore\DotNet_N-Tier_Architecture\DotNetCore.Utilities\obj\Debug\net8.0\DotNetCore.Utilities.sourcelink.json
+C:\CS PERSONAL\DotNetCore\DotNet_N-Tier_Architecture\DotNetCore.Utilities\obj\Debug\net8.0\DotNetCore.Utilities.dll
+C:\CS PERSONAL\DotNetCore\DotNet_N-Tier_Architecture\DotNetCore.Utilities\obj\Debug\net8.0\refint\DotNetCore.Utilities.dll
+C:\CS PERSONAL\DotNetCore\DotNet_N-Tier_Architecture\DotNetCore.Utilities\obj\Debug\net8.0\DotNetCore.Utilities.pdb
+C:\CS PERSONAL\DotNetCore\DotNet_N-Tier_Architecture\DotNetCore.Utilities\obj\Debug\net8.0\ref\DotNetCore.Utilities.dll
